@@ -1,0 +1,1 @@
+# Prosperity-Prognosticator-app

@@ -57,9 +57,6 @@ python model.py
 ### Step 3: Run Flask App
 python app.py
 
-### Step 4: Open Browser
-http://127.0.0.1:5000/
-
 ## Output
 The system predicts whether a startup will be:
 - Successful
